@@ -1,0 +1,2 @@
+- api social network build in nodejs, express and mongodb
+- front end reactjs and redux
